@@ -737,7 +737,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4578078357977710961, guid: 70b3156b14743fa478c3685bc4aaa92e, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -50.00049
+      value: -50.000244
       objectReference: {fileID: 0}
     - target: {fileID: 4578078357977710961, guid: 70b3156b14743fa478c3685bc4aaa92e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -750,6 +750,18 @@ PrefabInstance:
     - target: {fileID: 4578078357977710961, guid: 70b3156b14743fa478c3685bc4aaa92e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5222831660057725174, guid: 70b3156b14743fa478c3685bc4aaa92e, type: 3}
+      propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
+      value: 114756194304
+      objectReference: {fileID: 0}
+    - target: {fileID: 6089614847338507912, guid: 70b3156b14743fa478c3685bc4aaa92e, type: 3}
+      propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
+      value: 84339101696
+      objectReference: {fileID: 0}
+    - target: {fileID: 6089614847338507912, guid: 70b3156b14743fa478c3685bc4aaa92e, type: 3}
+      propertyPath: m_StringReference.m_TableReference.m_TableCollectionName
+      value: GUID:d5a166e31ea1046409d33f350c2653ca
       objectReference: {fileID: 0}
     - target: {fileID: 7186425719860698960, guid: 70b3156b14743fa478c3685bc4aaa92e, type: 3}
       propertyPath: m_AnchorMax.y
