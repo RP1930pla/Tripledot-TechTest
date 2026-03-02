@@ -1,11 +1,13 @@
 using DG.Tweening;
 using UnityEngine;
 using UnityEngine.UI;
+using static UnityEditor.FilePathAttribute;
 
 [RequireComponent(typeof(RectTransform))]
 public class BottomBarButton : MonoBehaviour
 {
-    bool buttonEnabled = false;
+    [HideInInspector]
+    public bool buttonEnabled = false;
     public bool locked = false;
 
     public BottomBarView buttonController;
@@ -13,7 +15,14 @@ public class BottomBarButton : MonoBehaviour
     public RectTransform childRectTransform;
     public AnimationCurve fadeCurve;
 
+
+
     public Image image;
+
+    public float rotation = 20f;
+    public float timePerRotation = 0.1f;
+    public AnimationCurve rotationCurve = AnimationCurve.Linear(0, 0, 1, 1);
+
 
     private void OnEnable()
     {
@@ -47,12 +56,23 @@ public class BottomBarButton : MonoBehaviour
         }
     }
 
+    public void RotateLocked()
+    {
+        DG.Tweening.Sequence sequence = DOTween.Sequence();
+        sequence.Append(rectTransform.DORotate(new Vector3(0, 0, rotation), timePerRotation).SetEase(rotationCurve));
+        sequence.Append(rectTransform.DORotate(new Vector3(0, 0, -rotation), timePerRotation).SetEase(rotationCurve));
+        sequence.Append(rectTransform.DORotate(new Vector3(0, 0, 0), timePerRotation).SetEase(rotationCurve));
+        sequence.Play();
+    }
+
     public void CloseButton() 
     {
         buttonEnabled = false;
         rectTransform.DOSizeDelta(new Vector2(0f, 667.457f), 0.3f);
         childRectTransform.DOLocalMoveY(0f, 0.3f);
         image.DOFade(0, 0.3f).SetEase(fadeCurve);
+
+        buttonController.CheckForNoContent();
 
     }
 
@@ -71,6 +91,10 @@ public class BottomBarButton : MonoBehaviour
 
             buttonController.ContentActivated();
 
+        }
+        else 
+        {
+            RotateLocked();
         }
 
     }

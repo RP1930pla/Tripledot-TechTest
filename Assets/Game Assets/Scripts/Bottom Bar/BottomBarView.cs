@@ -1,5 +1,6 @@
 using NUnit.Framework;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class BottomBarView : MonoBehaviour
@@ -9,17 +10,42 @@ public class BottomBarView : MonoBehaviour
 
     void Closed() 
     {
-
+        Debug.Log("Event: Closed");
     }
 
-    void CheckForNoContent() 
+    public bool ReturnFalseIfNoContent() 
     {
+        if (buttons != null) 
+        {
+            for (int i = 0; i < buttons.Count; i++)
+            {
+                if (buttons[i].buttonEnabled)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
 
+        return false;
+    }
+
+    public void CheckForNoContent() 
+    {
+        if (ReturnFalseIfNoContent() == false)
+        {
+            Closed();
+        }
+    }
+
+    private void Start()
+    {
+        CheckForNoContent();
     }
 
     public void ContentActivated() 
     {
-        Debug.Log("Content Activated");
+        Debug.Log("Event: Content Activated");
     }
 
     public void Subscribe(BottomBarButton button)
