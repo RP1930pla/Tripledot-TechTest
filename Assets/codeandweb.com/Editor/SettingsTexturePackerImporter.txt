@@ -1,0 +1,11 @@
+version: 2
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Game Assets/Art Assets/UI Sprites/Level Complete Screen/Packed Textures/SP_LevelCompleSpritesheet.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Game Assets/Art Assets/UI Sprites/Level Complete Screen/Packed Textures/SP_LevelCompleSpritesheet.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+enableDebugOutput: 0

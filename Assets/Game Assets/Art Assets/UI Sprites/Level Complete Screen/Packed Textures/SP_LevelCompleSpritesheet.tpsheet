@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:f4a8f9694687da667f8eb048326c48a7:f949a67c59cf113658ca3abcacd3228d:2322509a2905bcb18d14d846ff1bf2ab$
+#
+:format=40300
+:texture=SP_LevelCompleSpritesheet.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Buttton_Blue;920;1617;420;431; 0.5;0.5; 0;0;0;0
+Buttton_Green;0;160;1348;431; 0.5;0.5; 0;0;0;0
+coins;183;1784;238;264; 0.5;0.5; 0;0;0;0
+crown;660;1793;260;255; 0.5;0.5; 0;0;0;0
+glow;0;692;908;925; 0.5;0.5; 0;0;0;0
+home icn;421;1810;239;238; 0.5;0.5; 0;0;0;0
+play;0;1851;183;197; 0.5;0.5; 0;0;0;0
+star;908;591;1067;1026; 0.5;0.5; 0;0;0;0
