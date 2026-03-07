@@ -75,6 +75,6 @@
 
     void BoxBlur_float(in Texture2D MainTex, in SamplerState sampler_MainTex, in float2 uv, in float2 texelSize, in float radius, out float4 result)
     {
-        BoxBlur_half(MainTex, sampler_MainTex, uv, texelSize, radius ,result);
+        BoxBlur_half(MainTex, sampler_MainTex, uv, texelSize, radius, result);
     }
 #endif

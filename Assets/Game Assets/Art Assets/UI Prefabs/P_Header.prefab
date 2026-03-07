@@ -794,6 +794,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36c84b8c770dce2498243a429b25d34f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NotchDetector
+  rectTransform: {fileID: 664155649167101750}
   posWithoutNotch: {x: 0, y: -224}
   posWithNotch: {x: 0, y: -458}
 --- !u!1 &3829223236277745756

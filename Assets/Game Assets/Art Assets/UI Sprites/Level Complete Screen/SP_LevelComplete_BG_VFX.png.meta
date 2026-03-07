@@ -1,0 +1,2717 @@
+fileFormatVersion: 2
+guid: a8aa6fb9575908e43bd85a9610c78567
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6334347939141383903
+    second: SP_LevelComplete_BG_VFX_0
+  - first:
+      213: -7037735888839985816
+    second: SP_LevelComplete_BG_VFX_1
+  - first:
+      213: -6632229862646146564
+    second: SP_LevelComplete_BG_VFX_2
+  - first:
+      213: -6371501659070942211
+    second: SP_LevelComplete_BG_VFX_3
+  - first:
+      213: -4714783147628626129
+    second: SP_LevelComplete_BG_VFX_4
+  - first:
+      213: 1253651144685211549
+    second: SP_LevelComplete_BG_VFX_5
+  - first:
+      213: -3642588301710681746
+    second: SP_LevelComplete_BG_VFX_6
+  - first:
+      213: -3947889754737378016
+    second: SP_LevelComplete_BG_VFX_7
+  - first:
+      213: 6745799101886519085
+    second: SP_LevelComplete_BG_VFX_8
+  - first:
+      213: 3425840136816048159
+    second: SP_LevelComplete_BG_VFX_9
+  - first:
+      213: 637074538718712141
+    second: SP_LevelComplete_BG_VFX_10
+  - first:
+      213: -8593018576443542472
+    second: SP_LevelComplete_BG_VFX_11
+  - first:
+      213: 8254310501588770770
+    second: SP_LevelComplete_BG_VFX_12
+  - first:
+      213: -8155251830702626029
+    second: SP_LevelComplete_BG_VFX_13
+  - first:
+      213: -4678660293275501987
+    second: SP_LevelComplete_BG_VFX_14
+  - first:
+      213: -4823986478492452444
+    second: SP_LevelComplete_BG_VFX_15
+  - first:
+      213: 8806824575144280979
+    second: SP_LevelComplete_BG_VFX_16
+  - first:
+      213: 8779799208783469921
+    second: SP_LevelComplete_BG_VFX_17
+  - first:
+      213: -2672231240365120062
+    second: SP_LevelComplete_BG_VFX_18
+  - first:
+      213: 4932666057163436418
+    second: SP_LevelComplete_BG_VFX_19
+  - first:
+      213: -3328862302774405248
+    second: SP_LevelComplete_BG_VFX_20
+  - first:
+      213: -1489469841239801820
+    second: SP_LevelComplete_BG_VFX_21
+  - first:
+      213: -294539613755992532
+    second: SP_LevelComplete_BG_VFX_22
+  - first:
+      213: -2923653197063569309
+    second: SP_LevelComplete_BG_VFX_23
+  - first:
+      213: 5752851603428737388
+    second: SP_LevelComplete_BG_VFX_24
+  - first:
+      213: -1650530206289787235
+    second: SP_LevelComplete_BG_VFX_25
+  - first:
+      213: 5600293662728661544
+    second: SP_LevelComplete_BG_VFX_26
+  - first:
+      213: 5981762810615490814
+    second: SP_LevelComplete_BG_VFX_27
+  - first:
+      213: -7912015293535623664
+    second: SP_LevelComplete_BG_VFX_28
+  - first:
+      213: 366342108272027122
+    second: SP_LevelComplete_BG_VFX_29
+  - first:
+      213: -7924028781620008544
+    second: SP_LevelComplete_BG_VFX_30
+  - first:
+      213: -1005533692677916948
+    second: SP_LevelComplete_BG_VFX_31
+  - first:
+      213: 5014577665268104469
+    second: SP_LevelComplete_BG_VFX_32
+  - first:
+      213: -4043541464041277685
+    second: SP_LevelComplete_BG_VFX_33
+  - first:
+      213: 5534847190614079549
+    second: SP_LevelComplete_BG_VFX_34
+  - first:
+      213: 7264518068921868820
+    second: SP_LevelComplete_BG_VFX_35
+  - first:
+      213: 1475782488516800340
+    second: SP_LevelComplete_BG_VFX_36
+  - first:
+      213: 8595894007942585884
+    second: SP_LevelComplete_BG_VFX_37
+  - first:
+      213: -7954810791396098118
+    second: SP_LevelComplete_BG_VFX_38
+  - first:
+      213: -6550998931685694627
+    second: SP_LevelComplete_BG_VFX_39
+  - first:
+      213: -8645327387522747990
+    second: SP_LevelComplete_BG_VFX_40
+  - first:
+      213: 6910381448689540383
+    second: SP_LevelComplete_BG_VFX_41
+  - first:
+      213: -3344560782557993577
+    second: SP_LevelComplete_BG_VFX_42
+  - first:
+      213: 5087332465427902286
+    second: SP_LevelComplete_BG_VFX_43
+  - first:
+      213: 5060376026470744042
+    second: SP_LevelComplete_BG_VFX_44
+  - first:
+      213: -8196144226700247634
+    second: SP_LevelComplete_BG_VFX_45
+  - first:
+      213: 4730978150069386954
+    second: SP_LevelComplete_BG_VFX_46
+  - first:
+      213: 3831518676094623116
+    second: SP_LevelComplete_BG_VFX_47
+  - first:
+      213: -8853213661488700790
+    second: SP_LevelComplete_BG_VFX_48
+  - first:
+      213: 744235844616463927
+    second: SP_LevelComplete_BG_VFX_49
+  - first:
+      213: -1810411634517922014
+    second: SP_LevelComplete_BG_VFX_50
+  - first:
+      213: -7995994089322557848
+    second: SP_LevelComplete_BG_VFX_51
+  - first:
+      213: 5920218116353310955
+    second: SP_LevelComplete_BG_VFX_52
+  - first:
+      213: -8179695382475943373
+    second: SP_LevelComplete_BG_VFX_53
+  - first:
+      213: -6297586021467931940
+    second: SP_LevelComplete_BG_VFX_54
+  - first:
+      213: 4520813460288839176
+    second: SP_LevelComplete_BG_VFX_55
+  - first:
+      213: -7756419093083629174
+    second: SP_LevelComplete_BG_VFX_56
+  - first:
+      213: 7622053817717390464
+    second: SP_LevelComplete_BG_VFX_57
+  - first:
+      213: 6510145659557456710
+    second: SP_LevelComplete_BG_VFX_58
+  - first:
+      213: 655677224805353436
+    second: SP_LevelComplete_BG_VFX_59
+  - first:
+      213: -85058530988599777
+    second: SP_LevelComplete_BG_VFX_60
+  - first:
+      213: 9177560737447681667
+    second: SP_LevelComplete_BG_VFX_61
+  - first:
+      213: 5996347961120050579
+    second: SP_LevelComplete_BG_VFX_62
+  - first:
+      213: 7902096629738412060
+    second: SP_LevelComplete_BG_VFX_63
+  - first:
+      213: -194188523162591155
+    second: SP_LevelComplete_BG_VFX_64
+  - first:
+      213: -1584452204924332984
+    second: SP_LevelComplete_BG_VFX_65
+  - first:
+      213: -6867899804695861845
+    second: SP_LevelComplete_BG_VFX_66
+  - first:
+      213: -6199391418089126786
+    second: SP_LevelComplete_BG_VFX_67
+  - first:
+      213: -675170566300495819
+    second: SP_LevelComplete_BG_VFX_68
+  - first:
+      213: -8573902833418196055
+    second: SP_LevelComplete_BG_VFX_69
+  - first:
+      213: 747320815283795112
+    second: SP_LevelComplete_BG_VFX_70
+  - first:
+      213: -7850251624264125749
+    second: SP_LevelComplete_BG_VFX_71
+  - first:
+      213: 3659368724385765806
+    second: SP_LevelComplete_BG_VFX_72
+  - first:
+      213: 6355145112485049699
+    second: SP_LevelComplete_BG_VFX_73
+  - first:
+      213: 7447333246633933583
+    second: SP_LevelComplete_BG_VFX_74
+  - first:
+      213: -7030453049107161444
+    second: SP_LevelComplete_BG_VFX_75
+  - first:
+      213: 7059938307563919585
+    second: SP_LevelComplete_BG_VFX_76
+  - first:
+      213: 3433912839057518837
+    second: SP_LevelComplete_BG_VFX_77
+  - first:
+      213: -7879024590775488277
+    second: SP_LevelComplete_BG_VFX_78
+  - first:
+      213: -698162856403363867
+    second: SP_LevelComplete_BG_VFX_79
+  - first:
+      213: -1026130665724733699
+    second: SP_LevelComplete_BG_VFX_80
+  - first:
+      213: -4249637652510449176
+    second: SP_LevelComplete_BG_VFX_81
+  - first:
+      213: -1888668303856235131
+    second: SP_LevelComplete_BG_VFX_82
+  - first:
+      213: -2452808630970446464
+    second: SP_LevelComplete_BG_VFX_83
+  - first:
+      213: -3357757761996583336
+    second: SP_LevelComplete_BG_VFX_84
+  - first:
+      213: -9016207034102764363
+    second: SP_LevelComplete_BG_VFX_85
+  - first:
+      213: -4419196114775491590
+    second: SP_LevelComplete_BG_VFX_86
+  - first:
+      213: -2478203400249187798
+    second: SP_LevelComplete_BG_VFX_87
+  - first:
+      213: -4056352880362891523
+    second: SP_LevelComplete_BG_VFX_88
+  - first:
+      213: 1464684517559053535
+    second: SP_LevelComplete_BG_VFX_89
+  - first:
+      213: -366678985357412380
+    second: SP_LevelComplete_BG_VFX_90
+  - first:
+      213: -485195330723135237
+    second: SP_LevelComplete_BG_VFX_91
+  - first:
+      213: -3383376344994684459
+    second: SP_LevelComplete_BG_VFX_92
+  - first:
+      213: -7584590635135375196
+    second: SP_LevelComplete_BG_VFX_93
+  - first:
+      213: -6701698488746179607
+    second: SP_LevelComplete_BG_VFX_94
+  - first:
+      213: -8399146853944150564
+    second: SP_LevelComplete_BG_VFX_95
+  - first:
+      213: 3315995966512147498
+    second: SP_LevelComplete_BG_VFX_96
+  - first:
+      213: -7835076036573488589
+    second: SP_LevelComplete_BG_VFX_97
+  - first:
+      213: -957029604587817454
+    second: SP_LevelComplete_BG_VFX_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5163
+        width: 415
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6ff3cc3ef18e750800000000000000
+      internalID: 6334347939141383903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4899
+        width: 155
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865bca22f70f45e90800000000000000
+      internalID: -7037735888839985816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4845
+        width: 466
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf91d38341695f3a0800000000000000
+      internalID: -6632229862646146564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_3
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 5163
+        width: 459
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3b34daff0e397a0800000000000000
+      internalID: -6371501659070942211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_4
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 4845
+        width: 467
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ff89c05b9b19eb0800000000000000
+      internalID: -4714783147628626129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_5
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 5163
+        width: 457
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f493fe21dd56110800000000000000
+      internalID: 1253651144685211549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_6
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 4845
+        width: 468
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e699a852d3de27dc0800000000000000
+      internalID: -3642588301710681746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_7
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 5163
+        width: 459
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d79745f274639c0800000000000000
+      internalID: -3947889754737378016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_8
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 4845
+        width: 467
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27581ada84ed9d50800000000000000
+      internalID: 6745799101886519085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_9
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 5163
+        width: 421
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18323c14770b8f20800000000000000
+      internalID: 3425840136816048159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_10
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 4893
+        width: 163
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4156c7eae757d800800000000000000
+      internalID: 637074538718712141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4522
+        width: 419
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834ffbae1277fb880800000000000000
+      internalID: -8593018576443542472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4258
+        width: 155
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df99f00ba33d8270800000000000000
+      internalID: 8254310501588770770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4203
+        width: 466
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bad191ba9b2de80800000000000000
+      internalID: -8155251830702626029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 4522
+        width: 468
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ab69a704f021fb0800000000000000
+      internalID: -4678660293275501987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_15
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 4203
+        width: 467
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a97b2c3bd1cd0db0800000000000000
+      internalID: -4823986478492452444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_16
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 4522
+        width: 467
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393c7a06a40283a70800000000000000
+      internalID: 8806824575144280979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_17
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 4203
+        width: 468
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d5bceecdc18d970800000000000000
+      internalID: 8779799208783469921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_18
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 4522
+        width: 466
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5e55058d35aead0800000000000000
+      internalID: -2672231240365120062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_19
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 4203
+        width: 467
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2817ad405a9547440800000000000000
+      internalID: 4932666057163436418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_20
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 4522
+        width: 425
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08751f86f518dc1d0800000000000000
+      internalID: -3328862302774405248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_21
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 4251
+        width: 163
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4208e392217545be0800000000000000
+      internalID: -1489469841239801820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3881
+        width: 419
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c261bc528c599ebf0800000000000000
+      internalID: -294539613755992532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3617
+        width: 155
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360479e48e81d67d0800000000000000
+      internalID: -2923653197063569309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3561
+        width: 466
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6108ebad0c36df40800000000000000
+      internalID: 5752851603428737388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_25
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 3881
+        width: 468
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d968b03b5832819e0800000000000000
+      internalID: -1650530206289787235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_26
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 3561
+        width: 467
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a20d42a6d38bd40800000000000000
+      internalID: 5600293662728661544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_27
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 3881
+        width: 467
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8e061659d730350800000000000000
+      internalID: 5981762810615490814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_28
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3561
+        width: 468
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016e95b9200e23290800000000000000
+      internalID: -7912015293535623664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_29
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 3881
+        width: 466
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f562ddd432851500800000000000000
+      internalID: 366342108272027122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_30
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 3561
+        width: 467
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a961917ec1380290800000000000000
+      internalID: -7924028781620008544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_31
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 3881
+        width: 425
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6fe3e1f60ab02f0800000000000000
+      internalID: -1005533692677916948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_32
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 3610
+        width: 163
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51db9e471db579540800000000000000
+      internalID: 5014577665268104469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 419
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07b149467472e7c0800000000000000
+      internalID: -4043541464041277685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2976
+        width: 155
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38fe9ae13abfcc40800000000000000
+      internalID: 5534847190614079549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_35
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2920
+        width: 466
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412ae72d1b0c0d460800000000000000
+      internalID: 7264518068921868820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_36
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 3240
+        width: 468
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f29c1ba580b7410800000000000000
+      internalID: 1475782488516800340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_37
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2920
+        width: 467
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e9356ae00ca4770800000000000000
+      internalID: 8595894007942585884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_38
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 3240
+        width: 467
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf346b4bb5da9190800000000000000
+      internalID: -7954810791396098118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_39
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2920
+        width: 468
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5329e82e2d2615a0800000000000000
+      internalID: -6550998931685694627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_40
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 3240
+        width: 466
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa130c3cb80a50880800000000000000
+      internalID: -8645327387522747990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_41
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 2920
+        width: 467
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dd697905b96ef50800000000000000
+      internalID: 6910381448689540383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_42
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 3240
+        width: 425
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795ade140bbb591d0800000000000000
+      internalID: -3344560782557993577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_43
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 2969
+        width: 163
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f64286ce5d99640800000000000000
+      internalID: 5087332465427902286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2598
+        width: 419
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeff0bf5f211a3640800000000000000
+      internalID: 5060376026470744042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2335
+        width: 155
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadb9a73042714e80800000000000000
+      internalID: -8196144226700247634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2279
+        width: 466
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace350bcf8fc7a140800000000000000
+      internalID: 4730978150069386954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_47
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2598
+        width: 468
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d15e68fe94c2530800000000000000
+      internalID: 3831518676094623116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_48
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2279
+        width: 467
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82a45ac411132580800000000000000
+      internalID: -8853213661488700790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_49
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2598
+        width: 467
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7362a7bbe8e045a00800000000000000
+      internalID: 744235844616463927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_50
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2279
+        width: 468
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f235bd53020e6e0800000000000000
+      internalID: -1810411634517922014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_51
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 2598
+        width: 466
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e4ec78db5880190800000000000000
+      internalID: -7995994089322557848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_52
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 2279
+        width: 467
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0421a9207d82250800000000000000
+      internalID: 5920218116353310955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_53
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2598
+        width: 425
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3325e943362eb7e80800000000000000
+      internalID: -8179695382475943373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_54
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 2328
+        width: 163
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda30f721ea7a98a0800000000000000
+      internalID: -6297586021467931940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1957
+        width: 419
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e125cc3e72dbe30800000000000000
+      internalID: 4520813460288839176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1693
+        width: 155
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8951bb1ee9ab5490800000000000000
+      internalID: -7756419093083629174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_57
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1638
+        width: 466
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c74f75099f6c960800000000000000
+      internalID: 7622053817717390464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_58
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1957
+        width: 468
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b29f13cfea85a50800000000000000
+      internalID: 6510145659557456710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_59
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1638
+        width: 467
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd746d746fe691900800000000000000
+      internalID: 655677224805353436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_60
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1957
+        width: 467
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16de4b77bfc1def0800000000000000
+      internalID: -85058530988599777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_61
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1638
+        width: 468
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e142cadde3d5f70800000000000000
+      internalID: 9177560737447681667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_62
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1957
+        width: 466
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dc23c53be473350800000000000000
+      internalID: 5996347961120050579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_63
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1638
+        width: 467
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c189e548403e9ad60800000000000000
+      internalID: 7902096629738412060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_64
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1957
+        width: 425
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40af69219a1e4df0800000000000000
+      internalID: -194188523162591155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_65
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1687
+        width: 163
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84496e94d15e20ae0800000000000000
+      internalID: -1584452204924332984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1316
+        width: 419
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5e02ce38150b0a0800000000000000
+      internalID: -6867899804695861845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1052
+        width: 155
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74413dd95657f9a0800000000000000
+      internalID: -6199391418089126786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_68
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 998
+        width: 466
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5301cd872ff41a6f0800000000000000
+      internalID: -675170566300495819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_69
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1316
+        width: 468
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aba46bacc0630980800000000000000
+      internalID: -8573902833418196055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_70
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 997
+        width: 467
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4fe3072540f5a00800000000000000
+      internalID: 747320815283795112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_71
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1316
+        width: 467
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2bd4a7dbd4e0390800000000000000
+      internalID: -7850251624264125749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_72
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 998
+        width: 468
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea910377770b8c230800000000000000
+      internalID: 3659368724385765806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_73
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1316
+        width: 466
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3653bbd0fc2023850800000000000000
+      internalID: 6355145112485049699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_74
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 998
+        width: 467
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b7291512e3a5760800000000000000
+      internalID: 7447333246633933583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_75
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1316
+        width: 425
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ed7e56330de6e90800000000000000
+      internalID: -7030453049107161444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_76
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1046
+        width: 163
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8158e4c70f9f160800000000000000
+      internalID: 7059938307563919585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 419
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f03da19885b7af20800000000000000
+      internalID: 3433912839057518837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 155
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0724a21e418a290800000000000000
+      internalID: -7879024590775488277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 356
+        width: 466
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e794b4c490af46f0800000000000000
+      internalID: -698162856403363867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_80
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 676
+        width: 468
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df69750a89372c1f0800000000000000
+      internalID: -1026130665724733699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_81
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 356
+        width: 467
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e16df112114605c0800000000000000
+      internalID: -4249637652510449176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_82
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 676
+        width: 467
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d0c1a2f2a1ac5e0800000000000000
+      internalID: -1888668303856235131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_83
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 356
+        width: 468
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d8ef0bb8fd5fdd0800000000000000
+      internalID: -2452808630970446464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_84
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 676
+        width: 466
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e026a0b19d661d0800000000000000
+      internalID: -3357757761996583336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_85
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 356
+        width: 467
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc2deee87fffd280800000000000000
+      internalID: -9016207034102764363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_86
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 676
+        width: 425
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb350a2c8cdba2c0800000000000000
+      internalID: -4419196114775491590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_87
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 404
+        width: 163
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a226bf63327ab9dd0800000000000000
+      internalID: -2478203400249187798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 419
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6565afb80f4b7c0800000000000000
+      internalID: -4056352880362891523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc2f19feca935410800000000000000
+      internalID: 1464684517559053535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_90
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 408
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7bb23d76b49eaf0800000000000000
+      internalID: -366678985357412380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_91
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 35
+        width: 468
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0c199da6d3449f0800000000000000
+      internalID: -485195330723135237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_92
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 0
+        width: 408
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1e12fd325db01d0800000000000000
+      internalID: -3383376344994684459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_93
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 35
+        width: 467
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a86002900f1eb690800000000000000
+      internalID: -7584590635135375196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_94
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 0
+        width: 408
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3038a4bb8cef2a0800000000000000
+      internalID: -6701698488746179607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_95
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 35
+        width: 466
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5b15adf6c307b80800000000000000
+      internalID: -8399146853944150564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_96
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 0
+        width: 408
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ca59c33c8c40e20800000000000000
+      internalID: 3315995966512147498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_97
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 35
+        width: 425
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a9cd35bd7344390800000000000000
+      internalID: -7835076036573488589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_LevelComplete_BG_VFX_98
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 0
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216b20b25a2f7b2f0800000000000000
+      internalID: -957029604587817454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SP_LevelComplete_BG_VFX_0: 6334347939141383903
+      SP_LevelComplete_BG_VFX_1: -7037735888839985816
+      SP_LevelComplete_BG_VFX_10: 637074538718712141
+      SP_LevelComplete_BG_VFX_11: -8593018576443542472
+      SP_LevelComplete_BG_VFX_12: 8254310501588770770
+      SP_LevelComplete_BG_VFX_13: -8155251830702626029
+      SP_LevelComplete_BG_VFX_14: -4678660293275501987
+      SP_LevelComplete_BG_VFX_15: -4823986478492452444
+      SP_LevelComplete_BG_VFX_16: 8806824575144280979
+      SP_LevelComplete_BG_VFX_17: 8779799208783469921
+      SP_LevelComplete_BG_VFX_18: -2672231240365120062
+      SP_LevelComplete_BG_VFX_19: 4932666057163436418
+      SP_LevelComplete_BG_VFX_2: -6632229862646146564
+      SP_LevelComplete_BG_VFX_20: -3328862302774405248
+      SP_LevelComplete_BG_VFX_21: -1489469841239801820
+      SP_LevelComplete_BG_VFX_22: -294539613755992532
+      SP_LevelComplete_BG_VFX_23: -2923653197063569309
+      SP_LevelComplete_BG_VFX_24: 5752851603428737388
+      SP_LevelComplete_BG_VFX_25: -1650530206289787235
+      SP_LevelComplete_BG_VFX_26: 5600293662728661544
+      SP_LevelComplete_BG_VFX_27: 5981762810615490814
+      SP_LevelComplete_BG_VFX_28: -7912015293535623664
+      SP_LevelComplete_BG_VFX_29: 366342108272027122
+      SP_LevelComplete_BG_VFX_3: -6371501659070942211
+      SP_LevelComplete_BG_VFX_30: -7924028781620008544
+      SP_LevelComplete_BG_VFX_31: -1005533692677916948
+      SP_LevelComplete_BG_VFX_32: 5014577665268104469
+      SP_LevelComplete_BG_VFX_33: -4043541464041277685
+      SP_LevelComplete_BG_VFX_34: 5534847190614079549
+      SP_LevelComplete_BG_VFX_35: 7264518068921868820
+      SP_LevelComplete_BG_VFX_36: 1475782488516800340
+      SP_LevelComplete_BG_VFX_37: 8595894007942585884
+      SP_LevelComplete_BG_VFX_38: -7954810791396098118
+      SP_LevelComplete_BG_VFX_39: -6550998931685694627
+      SP_LevelComplete_BG_VFX_4: -4714783147628626129
+      SP_LevelComplete_BG_VFX_40: -8645327387522747990
+      SP_LevelComplete_BG_VFX_41: 6910381448689540383
+      SP_LevelComplete_BG_VFX_42: -3344560782557993577
+      SP_LevelComplete_BG_VFX_43: 5087332465427902286
+      SP_LevelComplete_BG_VFX_44: 5060376026470744042
+      SP_LevelComplete_BG_VFX_45: -8196144226700247634
+      SP_LevelComplete_BG_VFX_46: 4730978150069386954
+      SP_LevelComplete_BG_VFX_47: 3831518676094623116
+      SP_LevelComplete_BG_VFX_48: -8853213661488700790
+      SP_LevelComplete_BG_VFX_49: 744235844616463927
+      SP_LevelComplete_BG_VFX_5: 1253651144685211549
+      SP_LevelComplete_BG_VFX_50: -1810411634517922014
+      SP_LevelComplete_BG_VFX_51: -7995994089322557848
+      SP_LevelComplete_BG_VFX_52: 5920218116353310955
+      SP_LevelComplete_BG_VFX_53: -8179695382475943373
+      SP_LevelComplete_BG_VFX_54: -6297586021467931940
+      SP_LevelComplete_BG_VFX_55: 4520813460288839176
+      SP_LevelComplete_BG_VFX_56: -7756419093083629174
+      SP_LevelComplete_BG_VFX_57: 7622053817717390464
+      SP_LevelComplete_BG_VFX_58: 6510145659557456710
+      SP_LevelComplete_BG_VFX_59: 655677224805353436
+      SP_LevelComplete_BG_VFX_6: -3642588301710681746
+      SP_LevelComplete_BG_VFX_60: -85058530988599777
+      SP_LevelComplete_BG_VFX_61: 9177560737447681667
+      SP_LevelComplete_BG_VFX_62: 5996347961120050579
+      SP_LevelComplete_BG_VFX_63: 7902096629738412060
+      SP_LevelComplete_BG_VFX_64: -194188523162591155
+      SP_LevelComplete_BG_VFX_65: -1584452204924332984
+      SP_LevelComplete_BG_VFX_66: -6867899804695861845
+      SP_LevelComplete_BG_VFX_67: -6199391418089126786
+      SP_LevelComplete_BG_VFX_68: -675170566300495819
+      SP_LevelComplete_BG_VFX_69: -8573902833418196055
+      SP_LevelComplete_BG_VFX_7: -3947889754737378016
+      SP_LevelComplete_BG_VFX_70: 747320815283795112
+      SP_LevelComplete_BG_VFX_71: -7850251624264125749
+      SP_LevelComplete_BG_VFX_72: 3659368724385765806
+      SP_LevelComplete_BG_VFX_73: 6355145112485049699
+      SP_LevelComplete_BG_VFX_74: 7447333246633933583
+      SP_LevelComplete_BG_VFX_75: -7030453049107161444
+      SP_LevelComplete_BG_VFX_76: 7059938307563919585
+      SP_LevelComplete_BG_VFX_77: 3433912839057518837
+      SP_LevelComplete_BG_VFX_78: -7879024590775488277
+      SP_LevelComplete_BG_VFX_79: -698162856403363867
+      SP_LevelComplete_BG_VFX_8: 6745799101886519085
+      SP_LevelComplete_BG_VFX_80: -1026130665724733699
+      SP_LevelComplete_BG_VFX_81: -4249637652510449176
+      SP_LevelComplete_BG_VFX_82: -1888668303856235131
+      SP_LevelComplete_BG_VFX_83: -2452808630970446464
+      SP_LevelComplete_BG_VFX_84: -3357757761996583336
+      SP_LevelComplete_BG_VFX_85: -9016207034102764363
+      SP_LevelComplete_BG_VFX_86: -4419196114775491590
+      SP_LevelComplete_BG_VFX_87: -2478203400249187798
+      SP_LevelComplete_BG_VFX_88: -4056352880362891523
+      SP_LevelComplete_BG_VFX_89: 1464684517559053535
+      SP_LevelComplete_BG_VFX_9: 3425840136816048159
+      SP_LevelComplete_BG_VFX_90: -366678985357412380
+      SP_LevelComplete_BG_VFX_91: -485195330723135237
+      SP_LevelComplete_BG_VFX_92: -3383376344994684459
+      SP_LevelComplete_BG_VFX_93: -7584590635135375196
+      SP_LevelComplete_BG_VFX_94: -6701698488746179607
+      SP_LevelComplete_BG_VFX_95: -8399146853944150564
+      SP_LevelComplete_BG_VFX_96: 3315995966512147498
+      SP_LevelComplete_BG_VFX_97: -7835076036573488589
+      SP_LevelComplete_BG_VFX_98: -957029604587817454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

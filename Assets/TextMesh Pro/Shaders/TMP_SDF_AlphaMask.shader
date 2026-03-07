@@ -342,6 +342,7 @@ SubShader {
 
 			//INSERTED CODE TO REVEAL TEXT WITH GLOBAL PARAMETER
 			float2 screenUV = (input.positionCS.xy / input.positionCS.w) * 0.5 + 0.5;
+			// float2 screenUV = (input.positionCS.xy)* 0.5 + 0.5;
 			// screenUV = screenUV + 0.5;
 			screenUV = float2(screenUV.x, 1-screenUV.y);
 			half revealValue = lerp(0,1.1, _Reveal);

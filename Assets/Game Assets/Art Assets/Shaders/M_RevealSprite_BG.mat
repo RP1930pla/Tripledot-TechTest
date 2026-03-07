@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_RevealSprite
-  m_Shader: {fileID: -6465566751694194690, guid: 9e4ad8a10dc9eae43a0062f06a64fc5f, type: 3}
+  m_Name: M_RevealSprite_BG
+  m_Shader: {fileID: -6465566751694194690, guid: 760ec5f81cd7f174cad211829be12e13, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
