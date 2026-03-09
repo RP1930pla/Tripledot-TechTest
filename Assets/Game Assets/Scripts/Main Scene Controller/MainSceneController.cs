@@ -6,15 +6,22 @@ using UnityEngine.UI;
 
 public class MainSceneController : MonoBehaviour
 {
+    [Header("Settings Menu References")]
     public GameObject uiSettings;
     public RectTransform uiSettingsPopUp;
     public AnimationCurve uiSettingsAnimationCurve;
+    public Material uiSettingsBlurMaterial;
+    public RawImage uiSettingsScreenshotRawImage;
+    private Texture2D screenShot;
+
+    [Header("Main UI References")]
     public GraphicRaycaster uiMainMenuGraphicRaycaster;
 
-    public Texture2D screenShot;
-    public RawImage sprite;
-
-
+    [Header("Level Complete UI References")]
+    public GameObject uiLevelComplete;
+    public float uiLevelCompleteReveal = 0;
+    public GraphicRaycaster uiLevelCompleteGraphicRayCaster;
+    private static int revealShaderID = Shader.PropertyToID("_Reveal");
 
     IEnumerator RecordFrame() 
     {
@@ -23,7 +30,7 @@ public class MainSceneController : MonoBehaviour
         screenShot = new Texture2D(screenTex.width, screenTex.height, TextureFormat.RGB24, false);
         screenShot.SetPixels(screenTex.GetPixels());
         screenShot.Apply();
-        sprite.texture = screenShot;
+        uiSettingsScreenshotRawImage.texture = screenShot;
 
         Destroy(screenTex);
         OpenUISettingsPanel();
@@ -34,6 +41,7 @@ public class MainSceneController : MonoBehaviour
         uiSettings.SetActive(true);
         uiSettingsPopUp.DOScale(1, 0.2f).SetEase(uiSettingsAnimationCurve);
         uiMainMenuGraphicRaycaster.enabled = false;
+        uiSettingsBlurMaterial.DOFloat(1f, "_Radius", 0.5f).SetEase(uiSettingsAnimationCurve);
     }
 
     public void OpenSettings() 
@@ -52,7 +60,52 @@ public class MainSceneController : MonoBehaviour
         TweenCallback tweenCallback;
         tweenCallback = new TweenCallback(ClosePopUp);
         Tween tween = uiSettingsPopUp.DOScale(0.0f, 0.2f).SetEase(uiSettingsAnimationCurve).OnComplete(tweenCallback);
+        uiSettingsBlurMaterial.DOFloat(0f, "_Radius", 0.5f).SetEase(uiSettingsAnimationCurve);
 
         uiMainMenuGraphicRaycaster.enabled = true;
     }
+
+
+    Tween DoGlobalShaderTransition(float endValue, float duration)
+    {
+        Tween t = DOTween.To(() => Shader.GetGlobalFloat(revealShaderID), x => Shader.SetGlobalFloat(revealShaderID, x), endValue, duration);
+        return t;
+    }
+
+    IEnumerator RevealLevelCompleteUI() 
+    {
+        Tween revealTween = DOTween.To(() => uiLevelCompleteReveal, x => uiLevelCompleteReveal = x, 1, 1f).OnUpdate(UpdateLevelCompleteShaderProperty);
+        //Tween revealTween = DOTween.To(() => Shader.SetGlobalFloat("_Reveal"), );
+        //Shader.SetGlobalFloat(revealShaderID, uiLevelCompleteReveal);
+        yield return revealTween.WaitForCompletion();
+        uiLevelCompleteGraphicRayCaster.enabled = true;
+    }
+
+    IEnumerator HideLevelCompleteUI() 
+    {
+        Tween revealTween = DOTween.To(() => uiLevelCompleteReveal, x => uiLevelCompleteReveal = x, 0, 1f).OnUpdate(UpdateLevelCompleteShaderProperty);
+        yield return revealTween.WaitForCompletion();
+        uiLevelComplete.SetActive(false);
+        uiMainMenuGraphicRaycaster.enabled = true;
+    }
+
+    void UpdateLevelCompleteShaderProperty() 
+    {
+        Shader.SetGlobalFloat(revealShaderID, uiLevelCompleteReveal);
+        Debug.Log(uiLevelCompleteReveal);
+    }
+
+    public void CompleteLevel() 
+    {
+        uiMainMenuGraphicRaycaster.enabled = false;
+        uiLevelComplete.SetActive(true);
+        StartCoroutine(RevealLevelCompleteUI());
+    }
+
+    public void ReturnToHomeScreen() 
+    {
+        StartCoroutine(HideLevelCompleteUI());
+    }
+
+
 }
