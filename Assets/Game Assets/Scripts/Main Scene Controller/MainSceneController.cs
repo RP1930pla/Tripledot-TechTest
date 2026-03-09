@@ -40,7 +40,7 @@ public class MainSceneController : MonoBehaviour
     public void OpenUISettingsPanel() 
     {
         uiSettings.SetActive(true);
-        uiSettingsPopUp.DOScale(1, 0.2f).SetEase(uiSettingsAnimationCurve);
+        uiSettingsPopUp.DOScale(0.46795f, 0.2f).SetEase(uiSettingsAnimationCurve);
         uiMainMenuGraphicRaycaster.enabled = false;
         uiSettingsBlurMaterial.DOFloat(1f, "_Radius", 0.5f).SetEase(uiSettingsAnimationCurve);
     }
