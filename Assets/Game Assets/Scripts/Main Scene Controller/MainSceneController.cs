@@ -21,6 +21,7 @@ public class MainSceneController : MonoBehaviour
     public GameObject uiLevelComplete;
     public float uiLevelCompleteReveal = 0;
     public GraphicRaycaster uiLevelCompleteGraphicRayCaster;
+    public AnimationCurve uiRevealCurve;
     private static int revealShaderID = Shader.PropertyToID("_Reveal");
 
     IEnumerator RecordFrame() 
@@ -74,16 +75,14 @@ public class MainSceneController : MonoBehaviour
 
     IEnumerator RevealLevelCompleteUI() 
     {
-        Tween revealTween = DOTween.To(() => uiLevelCompleteReveal, x => uiLevelCompleteReveal = x, 1, 1f).OnUpdate(UpdateLevelCompleteShaderProperty);
-        //Tween revealTween = DOTween.To(() => Shader.SetGlobalFloat("_Reveal"), );
-        //Shader.SetGlobalFloat(revealShaderID, uiLevelCompleteReveal);
+        Tween revealTween = DOTween.To(() => uiLevelCompleteReveal, x => uiLevelCompleteReveal = x, 1, 1f).OnUpdate(UpdateLevelCompleteShaderProperty).SetEase(uiRevealCurve);
         yield return revealTween.WaitForCompletion();
         uiLevelCompleteGraphicRayCaster.enabled = true;
     }
 
     IEnumerator HideLevelCompleteUI() 
     {
-        Tween revealTween = DOTween.To(() => uiLevelCompleteReveal, x => uiLevelCompleteReveal = x, 0, 1f).OnUpdate(UpdateLevelCompleteShaderProperty);
+        Tween revealTween = DOTween.To(() => uiLevelCompleteReveal, x => uiLevelCompleteReveal = x, 0, 1f).OnUpdate(UpdateLevelCompleteShaderProperty).SetEase(uiRevealCurve);
         yield return revealTween.WaitForCompletion();
         uiLevelComplete.SetActive(false);
         uiMainMenuGraphicRaycaster.enabled = true;
@@ -92,7 +91,6 @@ public class MainSceneController : MonoBehaviour
     void UpdateLevelCompleteShaderProperty() 
     {
         Shader.SetGlobalFloat(revealShaderID, uiLevelCompleteReveal);
-        Debug.Log(uiLevelCompleteReveal);
     }
 
     public void CompleteLevel() 
