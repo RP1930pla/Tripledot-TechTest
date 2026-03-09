@@ -714,7 +714,7 @@ ScriptedImporter:
     maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 3
     compressionQuality: 50
     forceMaximumCompressionQuality_BC6H_BC7: 0
     crunchedCompression: 0
@@ -733,11 +733,23 @@ ScriptedImporter:
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
   - name: Android
-    overridden: 1
+    overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     forceMaximumCompressionQuality_BC6H_BC7: 0
@@ -770,7 +782,19 @@ ScriptedImporter:
     categories: []
   spritePackingTag: 
   resliceFromLayer: 0
-  pSDLayerImportSetting: []
+  pSDLayerImportSetting:
+  - spriteId: 762f4ac6a2991f64db011b277a92b20f
+    name: Layer 2
+    layerId: 14111
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: d7e58f27e1fa57648bd9aa5fd40e5191
+    name: bg
+    layerId: 6283
+    flatten: 0
+    isGroup: 1
+    importLayer: 1
   psdLayers:
   - name: iphone_guidelines
     spriteName: 
@@ -1186,7 +1210,7 @@ ScriptedImporter:
   rigPSDLayers: []
   sharedRigPSDLayers: []
   importFileNodeState: 1
-  platformSettingsDirtyTick: 639077214841992451
+  platformSettingsDirtyTick: 639086926228306660
   spriteSizeExpandChanged: 0
   generateGOHierarchy: 0
   textureAssetName: 
