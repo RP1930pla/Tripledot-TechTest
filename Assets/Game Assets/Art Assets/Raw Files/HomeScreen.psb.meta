@@ -733,11 +733,11 @@ ScriptedImporter:
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
   - name: Android
-    overridden: 0
+    overridden: 1
     ignorePlatformSupport: 0
     maxTextureSize: 8192
     resizeAlgorithm: 0
-    textureFormat: 47
+    textureFormat: 48
     textureCompression: 1
     compressionQuality: 50
     forceMaximumCompressionQuality_BC6H_BC7: 0
@@ -1210,7 +1210,7 @@ ScriptedImporter:
   rigPSDLayers: []
   sharedRigPSDLayers: []
   importFileNodeState: 1
-  platformSettingsDirtyTick: 639086926228306660
+  platformSettingsDirtyTick: 639087741796733390
   spriteSizeExpandChanged: 0
   generateGOHierarchy: 0
   textureAssetName: 

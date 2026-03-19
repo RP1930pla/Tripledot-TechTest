@@ -33,7 +33,7 @@
         ) + .5;
     }
 
-    void BoxBlur_half(in Texture2D MainTex, in SamplerState sampler_MainTex, in float2 uv, in float2 texelSize, in float radius, out float4 result)
+    void BoxBlur_half(in Texture2D MainTex, in SamplerState sampler_MainTex, in float2 uv, in float2 texelSize, in float radius, in float lod, out float4 result)
     {
         result = half4(0,0,0,0);
         float diameter = (float(radius) * 2.0) + 1.0;  
@@ -44,7 +44,7 @@
         //STOCHASTIC SAMPLING TESTS
         // float blueNoise = bluenoise(res + frac(_Time.y * 10));
         // float2 randomNoise = Random2DFrom2D(half2(blueNoise, 1-blueNoise));
-        // // randomNoise = (randomNoise - 0.5)*2;
+        // randomNoise = (randomNoise - 0.5)*2;
         // randomNoise = 0;
 
         for (int y = -radius; y <= radius; y++)
@@ -59,9 +59,9 @@
                     continue;
                 }
 
-                half2 uvOffset = pixelOffset * texelSize;
+                half2 uvOffset = pixelOffset * (texelSize * (lod + 1));
 
-                result += SAMPLE_TEXTURE2D(MainTex, sampler_MainTex, uv + uvOffset);
+                result += SAMPLE_TEXTURE2D_LOD(MainTex, sampler_MainTex, uv + uvOffset, lod);
                 numberOfSamples++;
 
             }
@@ -73,8 +73,8 @@
 
     }
 
-    void BoxBlur_float(in Texture2D MainTex, in SamplerState sampler_MainTex, in float2 uv, in float2 texelSize, in float radius, out float4 result)
+    void BoxBlur_float(in Texture2D MainTex, in SamplerState sampler_MainTex, in float2 uv, in float2 texelSize, in float radius, in float lod, out float4 result)
     {
-        BoxBlur_half(MainTex, sampler_MainTex, uv, texelSize, radius, result);
+        BoxBlur_half(MainTex, sampler_MainTex, uv, texelSize, radius, lod,result);
     }
 #endif

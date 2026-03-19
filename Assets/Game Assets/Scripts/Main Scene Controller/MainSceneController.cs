@@ -12,6 +12,7 @@ public class MainSceneController : MonoBehaviour
     public AnimationCurve uiSettingsAnimationCurve;
     public Material uiSettingsBlurMaterial;
     public RawImage uiSettingsScreenshotRawImage;
+    [SerializeField]
     private Texture2D screenShot;
 
     [Header("Main UI References")]
@@ -28,8 +29,8 @@ public class MainSceneController : MonoBehaviour
     {
         yield return new WaitForEndOfFrame();
         var screenTex = ScreenCapture.CaptureScreenshotAsTexture();
-        screenShot = new Texture2D(screenTex.width, screenTex.height, TextureFormat.RGB24, false);
-        screenShot.SetPixels(screenTex.GetPixels());
+        screenShot = new Texture2D(screenTex.width, screenTex.height, TextureFormat.RGB24, true);
+        screenShot.SetPixels32(screenTex.GetPixels32());
         screenShot.Apply();
         uiSettingsScreenshotRawImage.texture = screenShot;
 

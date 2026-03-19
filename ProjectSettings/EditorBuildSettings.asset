@@ -12,6 +12,10 @@ EditorBuildSettings:
     path: Assets/Game Assets/Scenes/SC_MainScene.unity
     guid: f5356ec164c6ae3408efea3df3caecbb
   m_configObjects:
+    com.unity.adaptivePerformance.basic.provider_settings: {fileID: 11400000, guid: dfeee35746ea289409613aedbaac2df8, type: 2}
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 3748ae89aba50444c9fa5dfe225d66cd, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: bfd0182b0d88f3847be46a2371cd536b, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 559d4dde83e8adc428aab0da2dbcf23f, type: 2}
     com.unity.addressableassets: {fileID: 11400000, guid: ce7b30789c301c14985110a168a4c66b, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
     com.unity.localization.settings: {fileID: 11400000, guid: 64e8f77fc77d5d244b0e26672ce74f2d, type: 2}

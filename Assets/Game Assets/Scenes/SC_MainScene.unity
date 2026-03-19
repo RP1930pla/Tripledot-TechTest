@@ -163,6 +163,7 @@ GameObject:
   - component: {fileID: 1588815322}
   - component: {fileID: 1588815321}
   - component: {fileID: 1588815324}
+  - component: {fileID: 1588815325}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -188,7 +189,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.2264151, g: 0.2264151, b: 0.2264151, a: 0}
+  m_BackGroundColor: {r: 1, g: 1, b: 1, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -288,6 +289,18 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
+--- !u!114 &1588815325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1588815320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 230e3282d6c629f44bb91565b120e52e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SetFramerate
 --- !u!1 &1991629897 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1794906989796789234, guid: 18691437df5e0654184dd8b9eb51fd11, type: 3}
@@ -786,7 +799,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7612943761855887078, guid: 42efdb3226d6a1642b6d9beabdb42999, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -12.591
+      value: -12.590942
       objectReference: {fileID: 0}
     - target: {fileID: 7656719082968641542, guid: 42efdb3226d6a1642b6d9beabdb42999, type: 3}
       propertyPath: m_Name
@@ -881,6 +894,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5080624882220679537, guid: 19c94f37f8a34514ab566c60b7892148, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2752051804417686329, guid: ca2cbfa7a252961438d12ac80b1829c6, type: 3}
     - target: {fileID: 5379335489655515296, guid: 19c94f37f8a34514ab566c60b7892148, type: 3}
       propertyPath: m_Pivot.x
       value: 0
